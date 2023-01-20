@@ -192,7 +192,7 @@ The input datasets will be in the form of an offer, with 8 available during deve
 ## Results Submission
 The competition submission should be published in Super Protocol GitHub related to Python Competition under the MIT license. The repo should also contain a README file with a brief description of the project, it's purpose, key components, and links to the SuperProtocol website and Discord community.
 
-Link to the repository: https://github.com/py_competition
+Link to the repository: https://github.com/Super-Protocol/py_competition
 
 Submit your results via pull-request. After submitting your work, you should notify us on Discord in #pythoncompetition channel. Note that this channel is only available to verified users of Super Protocol Discord community
 
