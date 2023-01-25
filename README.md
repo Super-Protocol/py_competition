@@ -190,11 +190,9 @@ The input datasets will be in the form of an offer, with 8 available during deve
 
 
 ## Results Submission
-The competition submission should be published in Super Protocol GitHub related to Python Competition under the MIT license. The repo should also contain a README file with a brief description of the project, it's purpose, key components, and links to the SuperProtocol website and Discord community.
+Upon the advent of the submission deadline, developers shall furnish access to the applications in the form of a resource comprising an encrypted file and TII, which will subsequently be utilized to process the order utilizing the mrEnclave feature. It is not necessary to make the code publicly available on platforms such as GitHub or other repositories, as the developer retains the option to keep the code confidential. Following the submission of the work, it is imperative that the developer notify the appropriate parties via the #pythoncompetition channel on the Discord communication platform. It should be noted that this channel is restricted to verified members of the Super Protocol Discord community.
 
-Link to the repository: https://github.com/Super-Protocol/py_competition
-
-Submit your results via pull-request. After submitting your work, you should notify us on Discord in #pythoncompetition channel. Note that this channel is only available to verified users of Super Protocol Discord community
+⚠️ It is important to note that the developer retains ownership rights to the submitted solution's code. The primary objective of Super Protocol is to integrate developers into a decentralized confidential cloud ecosystem, providing them with the opportunity to monetize their solutions, rather than acquiring the solutions themselves.
 
 **Important:**
 
@@ -208,9 +206,10 @@ As organizers, we reserve the right to remove a team/project/participant from pa
 
 
 ## Evaluation and Decision-Making Process for Competition Results
- 
 
-After notifying us on the Discord server that you have deployed your solution, we will take some time to review the result according to criteria match before it is eligible for consideration in the final evaluation process. The final decision on the 2 winners and the Best solution will be decided by the community's. Voting will start on March 16, 2023 within the Discord community and on Twitter.
+Upon notification of the deployment of the solution via the Discord server, a review of the results will be conducted to assess alignment with established criteria prior to eligibility for inclusion in the final evaluation process. A singular private key will be utilized for all orders, facilitating ease of access for all interested parties to verify the legitimacy of the results. The final stages of the competition will be facilitated through the creation of offers on the Super Protocol Testnet, specifically in the form of two data offers (phrase #9 and #10).
+
+The final decision on the 2 winners and the Best solution will be decided by the community's. Voting will start on March 16, 2023 within the Discord community and on Twitter.
 
 Once the final testing phase begins, any changes to the applications will no longer be allowed. Developers will provide access to the applications in the form of a resource to an encrypted file and TII, which will be used to process the order with the mrEnclave feature. The numbers of offers to complete will be provided at a later date closer to the final testing phase.
 
@@ -220,10 +219,10 @@ The results will be announced on April 1st. If you have any questions, feel free
 ### Best solution criteria
  
 
-**Objective’s #1 Best Solution** should match the following criteria: cleanliness/correctness of the code, compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, style variety, variety of request languages (English, Spanish, Chinese, etc)
+**Objective’s #1 Best Solution** should match the following criteria: compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, style variety, variety of request languages (English, Spanish, Chinese, etc)
 
-**Objective’s #2 Best Solution** should match the following criteria: cleanliness/correctness of the code, compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, styles variability, detalization
 
+**Objective’s #2 Best Solution** should match the following criteria: compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, styles variability, detalization
  
 
 ## Rules and Disqualification
@@ -247,7 +246,10 @@ Do not use the community to advertise or promote products or services.
 
 Report any violation of these rules to the Super Protocol community managers
 
+Multiple accounts and duplicate solutions are prohibited. All disputes will be resolved by the Super Protocol Team commission, KYC or a video call may be required to remove the possibility of cheating.
+
 ⚠️  Violation of any of these rules will result in disqualification from the competition and a ban from the community.
+In disputable situations, it may be necessary to provide the source code, by giving a private key to the container that is on Storj, we may even do it online during video meet to maintain transparency.
 
 ### Rewards and Prizes
 
