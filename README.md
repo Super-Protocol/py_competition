@@ -112,13 +112,13 @@ The input datasets will be in the form of an offer, with 8 available during deve
 
 ▪️  **result/request match**
 
-▪️  **variety of request languages (English, Hindi, Spanish, Chinese, etc)**
+▪️  **Variety of output styles. 4 output pictures should be in 4 different styles (Anime, Van Gogh, Sketch and any other you choose)**
 
 ▪️  **style variety**
 
 ▪️  see more criteria in **Evaluation and Decision-Making Process for Competition Results section**
 
-✅ Announce the release on the Super Protocol Disord server and make the following tweet:
+✅ Announce the release on the Super Protocol Discord server and make the following tweet:
 
 ⚡️ Web3 is coming. Just deployed my own text-2-image AI solution in a fully decentralized and confidential mode thanks to @super__protocol.
 
@@ -137,7 +137,7 @@ Results will be facilitated by Super Protocol Team and winners will be chosen by
 
  
 
-✅ **minimum requirements: **
+✅ **minimum requirements:**
 
 ▪️ **The application should output four generated images for each input picture, such as converting a photo to anime style or transforming a person from young to old or turning the image into a famous art masterpiece**
 
@@ -181,7 +181,7 @@ The input datasets will be in the form of an offer, with 8 available during deve
 
 ▪️ see more criteria in **Evaluation and Decision-Making Process for Competition Results section**
 
-✅ **Announce the release of your solution on the Super Protocol Disord server and make the following tweet:**
+✅ **Announce the release of your solution on the Super Protocol Discord server and make the following tweet:**
 
 ⚡️ **Web3 is coming. Just deployed my own image-2-image AI solution in a fully decentralized and confidential mode thanks to @super__protocol**
 
@@ -219,11 +219,16 @@ The results will be announced on April 1st. If you have any questions, feel free
 ### Best solution criteria
  
 
-**Objective’s #1 Best Solution** should match the following criteria: compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, style variety, variety of request languages (English, Spanish, Chinese, etc)
+**Objective’s #1 Best Solution** should match the following criteria: compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, style variety, Variety of output styles. 4 output pictures should be in 4 different styles 
 
 
 **Objective’s #2 Best Solution** should match the following criteria: compliance with the guidelines and the objectives, originality of the solution, result/request match, solution speed, styles variability, detalization
- 
+
+### Important notes
+
+⚠️ External network activity will be unavailable, therefore, third-party solutions cannot be connected
+⚠️ 8GB solution size limit
+✅ We use Python 3.10 base image 
 
 ## Rules and Disqualification
  
