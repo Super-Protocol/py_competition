@@ -259,13 +259,14 @@ In disputable situations, it may be necessary to provide the source code, by giv
 ### Rewards and Prizes
 
 #### Objective Rewards
-Objective #1 – 40,000 TEE
+Objective #1 – 50,000 TEE [40,000 TEE for the winner, 10,000 TEE reward pool for participation]
 
-Objective #2 – 40,000 TEE
+Objective #2 – 50,000 TEE [40,000 TEE for the winner, 10,000 TEE reward pool for participation]
 
-Total TEE Reward Pool – 80,000 TEE
+Total TEE Reward Pool – 100,000 TEE
 
-⚠️ **ALL TEE REWARDS WILL BE DISTRIBUTED ONLY AFTER TGE ACCORDING TO THE REWARD POOL VESTING SCHEDULE**
+⚠️ **Each objective's 10K TEE Reward pool will be divided among all participants, who have successfully deployed a working solution. Only ONE solution in each objective will be awarded with the 40,000 TEE reward. Each objective may have only one best solution as well as only one winner in it.**
+⚠️**ALL TEE REWARDS WILL BE DISTRIBUTED ONLY AFTER TGE ACCORDING TO THE REWARD POOL VESTING SCHEDULE**
 
 As for the Best of the Best Solution USDC prize:
 
