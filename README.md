@@ -42,7 +42,7 @@ The Super Protocol Python Competition is tailored for Python developers and deve
 ## The Competition Schedule:
 
 
-▪️ Registration begins on January 20, 2023 and ends on January 31, 2023. UPD: Registration Extentended until March, 1st, 2023.
+▪️ Registration begins on January 20, 2023 and ends on January 31, 2023. UPD: Registration Extentended until March, 1st, 2023. UPD2: REGISTRATION IS CLOSED!!! But you can still apply on your own risk, since there is only 6 weeks left to the competition final.
 
 ▪️ The competition starts on February 1, 2023.
 
